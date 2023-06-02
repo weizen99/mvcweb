@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="92e846734aa1480fbccc226ac714eb2b" Name="Diagram1">
+        <EntityTypeShape EntityType="stockchangedateModel.financesum" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="stockchangedateModel.incomesum" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="stockchangedateModel.綜合一天" Width="1.5" PointX="7.25" PointY="0.625" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_weekequity" Width="1.5" PointX="5.375" PointY="0.5" />
+        <EntityTypeShape EntityType="stockchangedateModel.綜合二十天" Width="1.5" PointX="14.625" PointY="0.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.綜合十天" Width="1.5" PointX="12.875" PointY="0.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.綜合三天" Width="1.5" PointX="9" PointY="0.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.綜合五天" Width="1.5" PointX="10.75" PointY="0.625" />
+        <EntityTypeShape EntityType="stockchangedateModel.incomechar" Width="1.5" PointX="3.75" PointY="5.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.incomechar1" Width="1.5" PointX="5.75" PointY="5.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.incomechar2" Width="1.5" PointX="0.75" PointY="7.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.incomechar3" Width="1.5" PointX="7.75" PointY="5.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.incomechar4" Width="1.5" PointX="2.75" PointY="8.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.incomechar5" Width="1.5" PointX="4.75" PointY="8.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_daymerge" Width="1.5" PointX="7.375" PointY="8.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_主力加法人佔股本比彙總" Width="1.5" PointX="9.375" PointY="8.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_均線均量彙總" Width="1.5" PointX="0.75" PointY="11.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_daymergerate" Width="1.875" PointX="3.375" PointY="11.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_todaydmistep3" Width="1.5" PointX="11.375" PointY="5.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_merage1" Width="1.5" PointX="11.375" PointY="11.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_merage2" Width="1.5" PointX="13.375" PointY="5.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_merage3" Width="1.5" PointX="6.375" PointY="14.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_merage4" Width="1.5" PointX="15.375" PointY="5.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_成交值前150名_黃金交叉等" Width="2" PointX="8.375" PointY="15.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_外資排名一天不含ky" Width="1.5" PointX="15.375" PointY="12.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_外資排名一天含ky" Width="1.5" PointX="13.375" PointY="15.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_投信排名一天_黃金交叉" Width="1.5" PointX="15.375" PointY="15.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_外資排名一天_黃金交叉" Width="1.5" PointX="17.375" PointY="0.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_集中市場1" Width="1.5" PointX="17.375" PointY="7.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.View_櫃買市場1" Width="1.5" PointX="17.375" PointY="12.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.incomechar25" Width="1.5" PointX="0.75" PointY="18.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.incomechar26" Width="1.5" PointX="2.75" PointY="18.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.incomechar27" Width="1.5" PointX="19.75" PointY="0.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.incomechar28" Width="1.5" PointX="19.75" PointY="3.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.incomechar29" Width="1.5" PointX="19.75" PointY="6.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.winnewdate" Width="1.5" PointX="19.375" PointY="9.75" />
+        <EntityTypeShape EntityType="stockchangedateModel.winnew" Width="1.5" PointX="11.375" PointY="19.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
